@@ -33,8 +33,8 @@ A comprehensive implementation of advanced Deep Q-Network (DQN) algorithms for g
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd 0140_Deep_reinforcement_learning_for_games
+git clone https://github.com/kryptologyst/Deep-Reinforcement-Learning-for-Games.git
+cd Deep-Reinforcement-Learning-for-Games
 
 # Install dependencies
 pip install -r requirements.txt
